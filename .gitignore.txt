@@ -1,0 +1,14 @@
+# Laravel
+.env
+/vendor/
+/storage/framework/cache/data/
+/storage/framework/sessions/
+/storage/framework/views/
+/bootstrap/cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Autres
+node_modules/
