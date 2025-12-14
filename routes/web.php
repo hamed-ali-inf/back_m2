@@ -50,5 +50,3 @@ Route::get('/users/{id}', function ($id){
     //fetch record with id
     return view('users.show', ["id" => $id]);
 });
-
->>>>>>> 7d2b23a1696d7efb6f5dc144c7161346044c3418
