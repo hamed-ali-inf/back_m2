@@ -3,7 +3,6 @@
 use App\Http\Controllers\AuthController;
 use Illuminate\Support\Facades\Route;
 
-<<<<<<< HEAD
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -18,7 +17,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return 'Backend API for Search Engine — No UI here.';
 });
-=======
 Route::get('/welcome', function () {
     return view('welcome');
 });
